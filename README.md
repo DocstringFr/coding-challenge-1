@@ -7,7 +7,7 @@ http://fr.wikipedia.org/wiki/Le_Pendu_(jeu)
 Le but est donc de générer un mot aléatoirement que l'utilisateur doit deviner.
 
 - Vous êtes totalement libre d'utiliser toutes les librairies que vous voulez.
-- Vous pouvez faire un programme en ligne de commande ou avec interface graphique.
+- Vous pouvez faire un programme en ligne de commande ou avec interface graphique (Tkinter, PySide, interface web...).
 - Vous pouvez choisir si l'utilisateur a le choix des paramètres (longueur du mot, nombre d'essais etc).
 - Pour le mot à trouver, vous pouvez utiliser du scraping, un fichier JSON, une base de donnée. À vous de trouver ce qui vous semble convenir le mieux ;)
 
