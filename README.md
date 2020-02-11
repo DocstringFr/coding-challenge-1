@@ -19,12 +19,12 @@ Cela peut être très simple, avec juste un mot défini aléatoirement que l'uti
 
 # Règles pour soumettre votre repository
 
-Pour soumettre votre solution à ce challenge, vous pouvez faire un pull request sur ce repo en modifiant ce fichier et en indiquant le lien vers votre repo suivant ce modèle :
+Pour soumettre votre solution à ce challenge, vous pouvez faire un pull request sur ce repo en modifiant ce fichier et en indiquant le lien vers votre repo suivant ce modèle :  
 
-[PRENOM] [NOM] ([ID DISCORD])
+[PRENOM] [NOM] ([ID DISCORD])  
 [LIEN]
 
 # Soumissions
 
-Thibault Houdon (ThibH#1598)
+Thibault Houdon (ThibH#1598)  
 https://github.com/ThibH/coding-challenge-1
