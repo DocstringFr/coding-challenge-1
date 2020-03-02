@@ -29,6 +29,6 @@ Pour soumettre votre solution à ce challenge, vous pouvez faire un pull request
 Thibault Houdon (ThibH#1598)  
 https://github.com/ThibH/coding-challenge-1
 
-Jean-Xavier (Lirifox#4365)
+Jean-Xavier (Lirifox#4365)  
 https://github.com/Jean-xavierr/Python_mini_project
 
