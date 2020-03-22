@@ -31,4 +31,8 @@ https://github.com/ThibH/coding-challenge-1
 
 Jean-Xavier (Lirifox#4365)  
 https://github.com/Jean-xavierr/Python_mini_project
+![exemple1](img/Jean-xavierr.png)
 
+hoodelali (Hoodelali#5128)  
+https://github.com/hoodelali/Pendu
+![exemple2](img/hoodelali.png)
