@@ -36,3 +36,6 @@ https://github.com/Jean-xavierr/Python_mini_project
 hoodelali (Hoodelali#5128)  
 https://github.com/hoodelali/Pendu
 ![exemple2](img/hoodelali.png)
+
+dnymxm (dnymxm#9588)
+https://github.com/dnymxm/hangman
